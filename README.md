@@ -1,8 +1,12 @@
 # MusicMixer
 Input-
+
 Name of artist-
+
 Number of Videos-
+
 Trimmed part duration-
+
 Name of output file-
 
 This code performs various tasks like:-
