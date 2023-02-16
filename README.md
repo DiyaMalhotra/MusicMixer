@@ -1,10 +1,10 @@
 # MusicMixer
 Input-
 
-Name of artist-
-Number of Videos-
-Trimmed part duration-
-Name of output file-
+1. Name of artist-
+2. Number of Videos-
+3. Trimmed part duration-
+4. Name of output file-
 
 This code performs various tasks like:-
 1. Downloads a particular amount of videos of your favorite artists from youtube on basis of revelance
