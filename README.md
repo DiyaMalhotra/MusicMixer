@@ -1,17 +1,14 @@
 # MusicMixer
-Here i have used *Multi threading* to download songs on the basis of threads available to the system and divide the tasks efficiently between them
-Input-
+In this code, I have implemented multi-threading to efficiently download songs based on the available threads in the system. The input parameters include the name of the artist, the number of videos to download, the duration of the trimmed part, and the desired name of the output file.
 
-1. Name of artist-
-2. Number of Videos-
-3. Trimmed part duration-
-4. Name of output file-
+The code performs the following tasks:
 
-The code performs below tasks:-
-1. Downloads a particular amount of videos of your favorite artists from youtube on basis of revelance
-2. Converts those videos(mp4) to audio(mp3).
-3. Trims the first part of audio(mp3).
-4. Merge all these audios to form a outout file(mp3).
+1. Download a specified number of videos from YouTube, focusing on the relevance to the artist of interest.
+2. Converts the downloaded videos from MP4 format to audio in MP3 format.
+3. Trims the first part of the audio, based on the specified duration.
+4. Merges all the trimmed audio files to create a single output file in MP3 format.
+
+By utilizing multi-threading, the code optimizes the downloading and processing of songs, effectively dividing the tasks among the available threads for improved efficiency.
 
 
 
